@@ -13,9 +13,7 @@
 - 🌱 Currently learning: **Java, MySQL, and Web Development**
 - 🎯 Goal: **Become a Software Engineer**
 - 📍 Based in: **Digos City, Davao Del Sur (Philippines)**
-- ⚡ Fun facts:
-- **- I really like stuff that is tech related**
-- **- I am very nervous when around with new people**
+- ⚡ Fun fact: I get nervous and very sweaty when I am around with new people.
 
 ---
 
