@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rembrunt 👋</h1>
 
-<!--
-**Karumuii/Karumuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  BSIT student • Aspiring developer • Always learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+
+- 🎓 I'm a **BSIT student** (Section 2B) at **[Your School Name]**
+- 💻 I'm learning how to build software, databases, and systems that solve real problems
+- 🌱 Currently learning: **[e.g., Java OOP, SQL, Web Development]**
+- 🔭 Working on: **[Your current project, e.g., ePayTurno, a paperless Turno tax payment system]**
+- 🎯 Goal: **[e.g., Become a full-stack developer / software engineer]**
+- 📍 Based in: **[Your city, Philippines]**
+- 💬 Ask me about: **[e.g., Java, databases, school projects]**
+- ⚡ Fun fact: **[Something about you!]**
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Add or remove badges: https://shields.io / https://simpleicons.org -->
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Concepts I'm Studying
+- Object-Oriented Programming (OOP)
+- Database Design & ER Modeling
+- Discrete Mathematics
+- **[Add more]**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[ePayTurno](https://github.com/your-username/your-repo)** | Paperless Turno tax payment system for tricycle drivers | **[Add tech stack]** |
+| **[Project 2]** | **[Short description]** | **[Tech]** |
+| **[Project 3]** | **[Short description]** | **[Tech]** |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
