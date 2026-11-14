@@ -44,22 +44,6 @@
 
 ---
 
-## 📂 Materials for Studyin
-
-<p align="center">
-  <a href="https://github.com/Karumuii/DSA-All-Topics-1st-Year">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karumuii&repo=DSA-All-Topics-1st-Year" />
-  </a>
-  <a href="https://github.com/Karumuii/OOP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karumuii&repo=OOP" />
-  </a>
-  <a href="https://github.com/Karumuii/Simple-Inventory-Management-for-Beginner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karumuii&repo=Simple-Inventory-Management-for-Beginner" />
-  </a>
-</p>
-
----
-
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
